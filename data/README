@@ -1,0 +1,5 @@
+table: includes 3 tables
+
+light_curve: includes 179 light curves (59 known + 54 observed + 66 candidates)
+
+spectra: includes 54 observed spectra
